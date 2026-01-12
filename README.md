@@ -1,1 +1,4 @@
-# ssd-design-lab--ameen-
+/docs/ (overall notes)
+/uml/ (UML diagrams)
+/reviews/ (checklists, evaluations)
+/adr/ (Architecture Decision Records)
